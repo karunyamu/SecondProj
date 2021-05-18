@@ -1,2 +1,6 @@
 Alert('Hello Angular');
-Alert('Welcome Courses');
+function addcustomer
+{
+    Alert('Welcome Courses');
+
+}
